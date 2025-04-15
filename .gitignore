@@ -1,8 +1,24 @@
-﻿# Ignore large model files
-movie_review.keras
-movie_tokenizer.pickle
+﻿# Data files to ignore
+IMDB Dataset.csv
+*.csv
 
-# Ignore common temporary files
-*.pyc
+# Model files to ignore
+*.keras
+*.h5
+*.pickle
+*.pkl
+
+# IDE and temporary files
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
 .DS_Store
+.ipynb_checkpoints/
+.idea/
+.vscode/
+
+# Environment files
+.env
+venv/
+env/
