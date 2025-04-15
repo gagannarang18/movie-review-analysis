@@ -1,8 +1,13 @@
-﻿## File Structure
+﻿# 🎬 Movie Review Sentiment Analysis
 
-### Excluded Files (Add Manually)
-- IMDB Dataset.csv - Original dataset
-- movie_review.keras - Trained model 
-- movie_tokenizer.pickle - Text tokenizer
+![Demo](image.png) 
 
-Place these in the project root folder.
+A deep learning model that analyzes movie review sentiment using LSTM neural networks. Classifies reviews as positive or negative.
+
+----
+## 🛠️ Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/movie-review-analysis.git
+cd movie-review-analysis
