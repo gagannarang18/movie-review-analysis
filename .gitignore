@@ -1,0 +1,8 @@
+﻿# Ignore large model files
+movie_review.keras
+movie_tokenizer.pickle
+
+# Ignore common temporary files
+*.pyc
+__pycache__/
+.DS_Store
