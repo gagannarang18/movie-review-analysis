@@ -1,10 +1,9 @@
-﻿# 🎬 Movie Review Sentiment Analysis
+﻿# 🎬 Movie Review Sentiment Analysis:
+ A deep learning model that analyzes movie review sentiment using LSTM neural networks. Classifies reviews as positive or negative.
 
 ![Demo](image.png) 
 
-A deep learning model that analyzes movie review sentiment using LSTM neural networks. Classifies reviews as positive or negative.
 
-----
 ## 🛠️ Installation
 
 1. Clone the repository:
